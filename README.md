@@ -43,6 +43,12 @@ A factory-focused application covering floor control, machine breakdowns and cha
 - Private source repository: https://github.com/akjayakody/LeadmaIE
 - Detailed summary: [case study](case-studies/leadmaie.md)
 
+## Architecture and engineering capabilities
+
+- [Leadma AI Workforce architecture overview](docs/leadma-ai-workforce-architecture.md) — component-level Mermaid diagram and implementation qualifications.
+- [Leadma engineering capabilities](docs/leadma-engineering-capabilities.md) — evidence-based capability matrix and technical discussion guide.
+- [Visual evidence and screenshot plan](docs/visual-evidence-and-screenshots.md) — identifies available private evidence and the review required before publication.
+
 ## Engineering approach
 
 Across these projects, the documented design principles include:
