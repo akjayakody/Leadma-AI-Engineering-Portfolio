@@ -47,7 +47,8 @@ A factory-focused application covering floor control, machine breakdowns and cha
 
 - [Leadma AI Workforce architecture overview](docs/leadma-ai-workforce-architecture.md) — component-level Mermaid diagram and implementation qualifications.
 - [Leadma engineering capabilities](docs/leadma-engineering-capabilities.md) — evidence-based capability matrix and technical discussion guide.
-- [Visual evidence and screenshot plan](docs/visual-evidence-and-screenshots.md) — identifies available private evidence and the review required before publication.
+- [Leadma AI Workforce screenshots](docs/leadma-ai-workforce-screenshots.md) — six reviewed application visuals with captions and evidence qualifications.
+- [Visual evidence and screenshot plan](docs/visual-evidence-and-screenshots.md) — publication and confidentiality guidance.
 
 ## Engineering approach
 
