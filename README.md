@@ -17,7 +17,7 @@ An enterprise-oriented platform concept and implementation for managing AI-assis
 - Private source repository: https://github.com/akjayakody/Leadma_AI_Agents
 - Detailed summary: [case study](case-studies/leadma-ai-workforce.md)
 
-### 2. Romaca ERP — Embroidery manufacturing operations
+### 2. Romaka ERP — Embroidery manufacturing operations
 A working prototype for embroidery manufacturing, covering the flow from sample and costing through orders, receiving, production, quality control, finished goods, dispatch and invoicing.
 
 - Stack documented in repository: React 19, TypeScript, Tailwind, Express, PostgreSQL, Prisma, Firebase Authentication emulator and Docker.
@@ -25,7 +25,7 @@ A working prototype for embroidery manufacturing, covering the flow from sample 
 - Repository documents 67 automated tests for the prototype.
 - Important limitation: authentication is configured with the Firebase emulator; production Firebase configuration and go-live preparation remain necessary.
 - Private source repository: https://github.com/akjayakody/romaka-erp
-- Detailed summary: [case study](case-studies/romaca-erp.md)
+- Detailed summary: [case study](case-studies/romaka-erp.md)
 
 ### 3. Leadma Audit — ISO 45001 ergonomic audit platform
 A web application for managing ergonomic audit engagements from auditor assignment and field observations to reports, corrective actions, invoices and certificate verification.
