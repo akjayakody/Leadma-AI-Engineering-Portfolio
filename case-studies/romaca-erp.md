@@ -1,7 +1,7 @@
-# Case Study: Romaca ERP
+# Case Study: Romaka ERP
 
 ## Overview
-Romaca ERP is a working prototype for embroidery manufacturing operations. Its documented process spans sample development, costing, order management, receiving, production, quality control, finished goods, dispatch and invoicing.
+Romaka ERP is a working prototype for embroidery manufacturing operations. Its documented process spans sample development, costing, order management, receiving, production, quality control, finished goods, dispatch and invoicing.
 
 ## Business problem
 Manufacturing operations need connected information across commercial, production, inventory, finance, HR and quality processes. Disconnected records can lead to inaccurate costing, stock discrepancies, weak approval controls and limited operational visibility.
